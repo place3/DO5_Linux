@@ -58,7 +58,7 @@ Grafana – bu ma'lumotlarni vizualizatsiya qilish, monitoring qilish va tahlil 
 - Barcha skriptlar dekompozitsiyalanishi va bir nechta fayllarga bo'linishi kerak;
 - Har bir vazifa uchun asosiy ssenariyga ega fayl **main.sh** deb nomlanishi kerak;
 - Barcha skriptlar noto'g'ri kiritilganligini (barcha parametrlar ko'rsatilmaganligi, noto'g'ri formatlangan parametrlar borligi va h.k.) tekshirishni nazarda tutishi kerak; 
-- Barcha yozilgan skriptlar *Ubuntu Server 20.04 LTS* virtual mashinasida ishga tushirilishi kerak.
+- Barcha yozilgan skriptlar *Ubuntu Server 24.04 LTS* virtual mashinasida ishga tushirilishi kerak.
 
 ## Part 1. Fayllar generatori
 
